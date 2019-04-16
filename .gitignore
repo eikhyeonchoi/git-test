@@ -1,0 +1,15 @@
+# visual studio code를 제외한다
+.vscode/
+bin/
+build/
+.gradle/
+
+*.zip
+*.log
+*.class
+*~
+
+!app.log
+
+
+
